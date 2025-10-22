@@ -1,0 +1,20 @@
+﻿Restaurando pacotes para C:\Projs\Teste\RabbitMQ\RabbitConsumer\RabbitConsumer.csproj...
+  CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2025.10.16.05.26.07/vulnerability.base.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2025.10.16.05.26.07/2025.10.21.11.26.27/vulnerability.update.json
+Instalando o pacote RabbitMQ.Client 7.1.2 do NuGet.
+Gravando o arquivo de ativos no disco. Caminho: C:\Projs\Teste\RabbitMQ\RabbitConsumer\obj\project.assets.json
+'RabbitMQ.Client 6.8.1' desinstalado com sucesso de RabbitConsumer
+'System.Memory 4.5.5' desinstalado com sucesso de RabbitConsumer
+'System.Threading.Channels 7.0.0' desinstalado com sucesso de RabbitConsumer
+'RabbitMQ.Client 7.1.2' instalado com sucesso em RabbitConsumer
+'System.IO.Pipelines 8.0.0' instalado com sucesso em RabbitConsumer
+'System.Threading.RateLimiting 8.0.0' instalado com sucesso em RabbitConsumer
+Executar ações do nuget levou 93 ms
+Tempo Decorrido: 00:00:00.2627148
+========== Concluído ==========
+
+Tempo Decorrido: 00:00:00.0319582
+========== Concluído ==========
+
+
